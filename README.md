@@ -22,7 +22,7 @@ npm run build --report
 
 ### cloudinary
 - open a user in cloudinary.com
-- on main page: go to 'settings' -> 'Upload' -> scroll down to 'Upload presets' section and click on 'Enabled Unsigned uploading'
+- on main page: go to 'settings' -> 'Upload' -> scroll down to 'Upload presets' section and click on 'Enabled Unsigned uploading' -> click on 'SAVE' button
 - copy the name of Upload presets to 'upload_preset' data (in Hello.vue file)
 - go back to dashboard and copy your cloud name to 'cloud_name' (in Hello.vue file)
 - upload some cats images to test
